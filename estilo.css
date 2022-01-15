@@ -1,0 +1,12 @@
+.navbar {
+  background-color: crimson;
+  font-family: 'Inconsolata';
+  font-size: 28px;
+}
+.margin {
+  padding: 30px;
+}
+
+.quem-somos {
+  background-color: yellow;
+}
