@@ -10,3 +10,11 @@
 .quem-somos {
   background-color: yellow;
 }
+section {
+  min-height: 100vh;
+  padding-top: 3rem;
+}
+
+label {
+  font-size: medium;
+}
