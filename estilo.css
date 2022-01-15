@@ -1,5 +1,5 @@
 .navbar {
-  background-color: blue;
+  background-color: #0d6efd;
   font-family: 'The Nautigal', cursive;
   color: yellow;
   font-size: 70px;
@@ -14,8 +14,4 @@
 section {
   min-height: 100vh;
   padding-top: 3rem;
-}
-
-label {
-  font-size: medium;
 }
